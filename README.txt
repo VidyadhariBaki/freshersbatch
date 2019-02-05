@@ -1,6 +1,6 @@
 <!DocType>
 <html>
-<head> headings</head>
+<head</head>
 <title>git hub</head>
 <body>
 <h1>
