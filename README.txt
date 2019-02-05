@@ -1,6 +1,10 @@
 <!DocType>
 <html>
+<<<<<<< HEAD
 <head>cascadind style sheets</head>
+=======
+<head</head>
+>>>>>>> css_assign
 <title>git hub</head>
 <body>
 <h1>
