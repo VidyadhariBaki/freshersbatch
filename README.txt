@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+<!DocType>
 <html>
-<head>
-</head>
+<head> headings</head>
+<title>git hub</head>
 <body>
-<h1>github</h1>
+<h1>
+welcome to capgemini</h1>
 </body>
 </html>
-=======
-iuytrewertyu sdfghjkl zfghj
->>>>>>> html_assign
