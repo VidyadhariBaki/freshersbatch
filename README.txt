@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
 </head>
@@ -5,3 +6,6 @@
 <h1>github</h1>
 </body>
 </html>
+=======
+iuytrewertyu sdfghjkl zfghj
+>>>>>>> html_assign
